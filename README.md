@@ -33,7 +33,7 @@ Despite this potential, **open-source computational tools for UAV-based vegetati
 
 ### Histogram of Green Band  
 *(Insert your image here)*  
-`![Band Histogram](results/band2_histogram.png)`
+![Band Histogram](results/band2_histogram.png)
 
 ---
 
