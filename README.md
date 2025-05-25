@@ -28,11 +28,9 @@ Despite this potential, **open-source computational tools for UAV-based vegetati
 ## Sample Outputs
 
 ### NDVI Visualization  
-*(Insert your image here)*  
-`![NDVI Image](results/NDVI_generation.png)`
+![NDVI Image](results/NDVI_generation.png)
 
 ### Histogram of Green Band  
-*(Insert your image here)*  
 ![Band Histogram](results/band2_histogram.png)
 
 ---
