@@ -29,11 +29,11 @@ Despite this potential, **open-source computational tools for UAV-based vegetati
 
 ### NDVI Visualization  
 *(Insert your image here)*  
-`![NDVI Image](images/ndvi_sample.png)`
+`![NDVI Image](results/NDVI_generation.png)`
 
-### Histogram of NIR Band  
+### Histogram of Green Band  
 *(Insert your image here)*  
-`![Band Histogram](images/histogram_nir.png)`
+`![Band Histogram](results/band2_histogram.png)`
 
 ---
 
@@ -80,7 +80,7 @@ It combines **research-backed algorithms** with **user-friendly design** to brin
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone this repository:
    ```bash
