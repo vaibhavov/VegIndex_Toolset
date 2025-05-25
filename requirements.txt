@@ -1,0 +1,7 @@
+Following Python libraries needs to be installed for the application:
+numpy
+matplotlib
+opencv-python
+scipy
+rasterio
+gdal
